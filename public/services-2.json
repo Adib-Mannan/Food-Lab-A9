@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Course",
+        "img": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=774&q=80",
+        "price": 300,
+        "detail": "In this course you can learn how to cook and manage things",
+        "seats": 221
+    },
+    {
+        "id": 2,
+        "name": "Make a Pasta",
+        "img": "https://images.unsplash.com/photo-1574969903809-3f7a1668ceb0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "price": 50,
+        "detail": "Pasta  is a type of food typically made from an unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or other shapes, then cooked by boiling or baking. Rice flour, or legumes such as beans or lentils, are sometimes used in place of wheat flour to yield a different taste and texture, or as a gluten-free alternative. Pasta is a staple food of Italian cuisine.",
+        "seats": 200
+    },
+    {
+        "id": 3,
+        "name": "Fish pie",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fish_Pie.jpg/375px-Fish_Pie.jpg",
+        "price": 40,
+        "detail": "Fish pie, also known as fishermans pie, is a traditional British dish. The pie is usually made with white, often smoked, fish  in a white sauce or cheddar cheese sauce made using the milk the fish was poached in. Prawns and hard boiled eggs are other common additional ingredients. Parsley or chives are sometimes added to the sauce.",
+        "seats": 240
+    },
+    {
+        "id": 4,
+        "name": "Burger",
+        "img": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=580&q=80",
+        "price": 60,
+        "detail": "A Burger is a food, typically considered a sandwich, consisting of one or more cooked patties—usually ground meat, typically beef—placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chilis.",
+        "seats": 140
+    }
+]

@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+}
+.container-2{
+    display: flex;
+    margin-top: 50px;
+}
+.custom-color{
+    color: rgb(223, 114, 114);
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.custom-box-1{
+    background-color: #ceb28d;
+    padding: 50px;
+    color: white;
+    margin-left: 350px;
+}
+.custom-box-2{
+    background-color: #68B78C;;
+    padding: 40px;
+    color: white;
+}
+.custom-font{
+    padding-top: 130px;
+    font-weight: 900;
+    font-size: 90px;
+    line-height: 90px;
+    color: brown;
+
+}
+.container img {
+    width: 80%;
+    padding-left: 50px;
+}
+.link-design{
+    padding-right: 20px;
+}
+.s-sec{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
